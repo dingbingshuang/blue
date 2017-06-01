@@ -1,0 +1,211 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-24 11:45:04
+ * @version $Id$
+ */
+.q
+{
+animation: hg 1s;
+-moz-animation: hg 1s; /* Firefox */
+-webkit-animation: hg 1s;  /* Safari 和 Chrome */
+-o-animation: hg 1s;   /* Opera */
+}
+@keyframes hg
+{
+from {height: 168px;}
+to {height: 70px;}
+}
+
+@-moz-keyframes hg /* Firefox */
+{
+from {height: 168px;}
+to {height: 70px;}
+}
+
+@-webkit-keyframes hg /* Safari 和 Chrome */
+{
+from {height: 168px;}
+to {height: 70px;}
+}
+
+@-o-keyframes hg /* Opera */
+{
+from {height: 168px;}
+to {height: 70px;}
+}
+.q .nav li a{
+	animation: lh 1s;
+-moz-animation: lh 1s; /* Firefox */
+-webkit-animation: lh 1s;  /* Safari 和 Chrome */
+-o-animation: lh 1s;   /* Opera */
+}
+@keyframes lh
+{
+from {line-height: 168px;}
+to {line-height: 70px;}
+}
+
+@-moz-keyframes lh /* Firefox */
+{
+from {line-height: 168px;}
+to {line-height: 70px;}
+}
+
+@-webkit-keyframes lh /* Safari 和 Chrome */
+{
+from {line-height: 168px;}
+to {line-height: 70px;}
+}
+
+@-o-keyframes lh /* Opera */
+{
+from {line-height: 168px;}
+to {line-height: 70px;}
+}
+.q .logo{
+animation: logo 1s;
+-moz-animation: logo 1s; /* Firefox */
+-webkit-animation: logo 1s;  /* Safari 和 Chrome */
+-o-animation: logo 1s;   /* Opera */
+}
+@keyframes logo
+{
+from {height: 168px;
+    margin-left: -84px;
+    width: 190px;
+}
+to {height: 70px;
+    margin-left: -42px;
+    width: 84px;
+}
+}
+
+@-moz-keyframes logo /* Firefox */
+{
+from {height: 168px;
+    margin-left: -84px;
+    width: 190px;
+}
+to {height: 70px;
+    margin-left: -42px;
+    width: 84px;
+}
+}
+
+@-webkit-keyframes logo /* Safari 和 Chrome */
+{
+from {height: 168px;
+    margin-left: -84px;
+    width: 190px;
+}
+to {height: 70px;
+    margin-left: -42px;
+    width: 84px;
+}
+}
+
+@-o-keyframes logo /* Opera */
+{
+from {height: 168px;
+    margin-left: -84px;
+    width: 190px;
+}
+to {height: 70px;
+    margin-left: -42px;
+    width: 84px;
+}
+}
+
+.q .nav{
+animation: nav 1s;
+-moz-animation: nav 1s; /* Firefox */
+-webkit-animation: nav 1s;  /* Safari 和 Chrome */
+-o-animation: nav 1s;   /* Opera */
+}
+@keyframes nav
+{
+from { width: 1200px;
+    
+}
+to {width: 1000px;
+   
+}
+}
+
+@-moz-keyframes nav /* Firefox */
+{
+from { width: 1200px;
+    
+}
+to {width: 1000px;
+   
+}
+}
+
+@-webkit-keyframes nav /* Safari 和 Chrome */
+{
+from { width: 1200px;
+    
+}
+to {width: 1000px;
+   
+}
+}
+
+@-o-keyframes nav /* Opera */
+{
+from { width: 1200px;
+    
+}
+to {width: 1000px;
+   
+}
+}
+.q .nav li{
+animation: navli 1s;
+-moz-animation: navli 1s; /* Firefox */
+-webkit-animation: navli 1s;  /* Safari 和 Chrome */
+-o-animation: navli 1s;   /* Opera */
+}
+@keyframes navli
+{
+from { width: 120px;
+    
+}
+to {width: 90px;
+   
+}
+}
+
+@-moz-keyframes navli /* Firefox */
+{
+from { width: 120px;
+    
+}
+to {width: 90px;
+   
+}
+}
+
+@-webkit-keyframes navli /* Safari 和 Chrome */
+{
+from { width: 120px;
+    
+}
+to {width: 90px;
+   
+}
+}
+
+@-o-keyframes navli /* Opera */
+{
+from { width: 120px;
+    
+}
+to {width: 90px;
+   
+}
+}
+
